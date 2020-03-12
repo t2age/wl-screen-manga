@@ -1,0 +1,11 @@
+ScreenShot Anime Sequence
+-------------------------
+
+run "./goScroting.sh" to start capturing screenshot frames...
+
+When you finish, just press <ctrl + c> to break the script...
+
+
+More info.
+Run "scrot --help" to get more information about scrot...
+
